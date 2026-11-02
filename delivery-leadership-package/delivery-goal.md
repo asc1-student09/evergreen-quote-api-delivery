@@ -4,7 +4,7 @@
 
 ## Goal
 
-> By Thursday EOD, the assembled Evergreen Quote API(REST + GraphQL, MongoDB-backed) is merged to main via a reviewed PR with a green CI run, demonstrated in a container and on a local Kubernetes cluster.
+> By Thursday EOD, the assembled Evergreen Quote API is merged to main via a reviewed PR with reen CI and running on a local Kubernetes cluster.
 
 ## "Done" looks like
 
