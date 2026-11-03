@@ -12,4 +12,4 @@
 
 ## How I'll use this register
 
-I will re-read this register at every daily check-in (10:00), whenever an injecti or surprise changes the plan, and once more before merging the final PR. It lives in the repository, so the team, the instructor and the sponsor can all see it. The cadence is daily, plus an immediate update whenever a trigger fires or a new risk appears; I will raise any risk that hits its trigger at the next check-in, or sooner if it is High impact. 
+I will re-read this register at every daily check-in (10:00),read it again whenever an injection or surprise changes the plan, and once more before merging the final PR. It lives in the repository, so the team, the instructor and the sponsor can all see it. The cadence is daily, plus an immediate update whenever a trigger fires or a new risk appears; I will raise any risk that hits its trigger at the next check-in, or sooner if it is High impact. 
