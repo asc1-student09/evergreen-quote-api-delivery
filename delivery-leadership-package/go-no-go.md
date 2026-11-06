@@ -3,7 +3,7 @@
 > Copy to `delivery-leadership-package/go-no-go.md`. Make this call **from** the CI result, not in spite of it.
 
 **Date / time:** Fri, Nov 6, 2026, 1:15 PM
-**Decision:** ☐ GO   ☐ NO-GO   ☐ GO WITH CONDITIONS
+**Decision:** ☐ GO   ☐ NO-GO   **☐** GO WITH CONDITIONS
 
 ## CI evidence
 
@@ -20,8 +20,8 @@
 
 - Hold the merge until: 'main' CI is green again and engineering confirms what is deployed to customers
 - Owner of that condition: Engineering team (on-call)
-- Re-evaluate at: 10:00 AM
+- Re-evaluate at: Mon, Nov 9, 10:00 AM
 
 ## My call
 
-Go with conditions. My branch ('delivery/lead') is green, but 'main 'is red since the validation hotfix, and I won't merge onto a broken 'main'. This becomes a full GO once 'main' is green agin and engineering confirms what is deployed to customers; it becomes a NO-GO if 'main' is still red at the re-evaluation time.
+Go with conditions. My branch ('delivery/lead') is green, but 'main' is red since the validation hotfix, and I won't merge onto a broken 'main'. This becomes a full GO once 'main' is green again and engineering confirms what is deployed to customers; it becomes a NO-GO if 'main' is still red at the re-evaluation time.
