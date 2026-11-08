@@ -5,8 +5,8 @@
 **Name:** Evergreen Quote API (Phase 3 service delivery)
 **Delivery week:** 3
 **Delivery Lead:** Patricia Mengi
-**Engineering team (represented by):** _link to your Evergreen Quote project repo_
-**GitHub Project board:** https://github.com/asc1-student09/evergreen-quote-api-delivery
+**Engineering team (represented by):** https://github.com/asc1-student09/evergreen-quote-api-delivery
+**GitHub Project board:** https://github.com/users/asc1-student09/projects/4
 
 ## Who is the customer?
 The Evergreen Quote API serves three customers:
